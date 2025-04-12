@@ -22,4 +22,4 @@ Plotting an Elbow Curve to identify the ideal number of clusters.
 
 Final model training and visual representation of clusters.
 
-This approach is particularly useful for segmenting data in fields like marketing, customer analysis, biology, and more, where the true labels are unknown
+This approach is particularly useful for segmenting data in fields like marketing, customer analysis, biology, and more, where the true labels are unknown.
