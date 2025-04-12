@@ -1,4 +1,12 @@
 📊 Project Title: Optimal Clustering using K-Means and the Elbow Method
+
+
+
+https://customer-segmentation-prediction-pfbw6piwhvnwagb5yodl3u.streamlit.app/
+
+
+
+
 Description:
 This project demonstrates the application of the K-Means clustering algorithm for unsupervised learning, aiming to identify inherent groupings within a dataset. By utilizing the Elbow Method, we determine the optimal number of clusters by evaluating the Within-Cluster Sum of Squares (WCSS) for different values of k.
 
